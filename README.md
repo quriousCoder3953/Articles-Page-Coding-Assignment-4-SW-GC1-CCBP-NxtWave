@@ -9,3 +9,6 @@ Desired Output: -
 Check Output Here: -
 
 https://quriouscoder3953.github.io/Articles-Page-Coding-Assignment-4-SW-GC1-CCBP-NxtWave/
+
+
+#Note: This is a static website designed for mobile view. It is advisable and preferrable to open the link on mobile phone only to avoid unexpected results.!
